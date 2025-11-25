@@ -1,2 +1,7 @@
 # Challenge1-Data-Science
-Es ayudar al Señor Juan a decidir que tienda vender para invertir en un nuevo negocio
+El proyecto tiene como finalidad analizar el desempeño individual de las cuatro tiendas de Alura Store.
+El objectivo es identificar la sucursal de menor rendimiento para proponer al Sr. Juan su venta.
+Los fondos generados por esta operación se destinarán a financiar e impulsar un nuevo negocio, buscando la máxima rentabilidad de activos de la empresa.
+
+
+
