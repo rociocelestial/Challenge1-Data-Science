@@ -45,5 +45,9 @@ Los fondos generados por esta operación se destinarán a financiar e impulsar u
 <img width="1387" height="690" alt="image" src="https://github.com/user-attachments/assets/57acc9d4-5860-4837-be51-57667ce079ce" />
 
 
+<img width="1387" height="690" alt="image" src="https://github.com/user-attachments/assets/0b997ee2-355f-46b0-9651-e0c4e80b9826" />
+
+
+
 
 
